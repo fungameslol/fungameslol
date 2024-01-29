@@ -1,0 +1,9 @@
+#leaderboard-container {
+    position: relative;
+}
+
+.position-absolute {
+    position: absolute;
+    top: 20px; /* Adjust the top position as needed */
+    left: 20px; /* Adjust the left position as needed */
+}
